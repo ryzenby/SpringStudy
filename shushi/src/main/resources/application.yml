@@ -5,6 +5,6 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: kongfy
-    password: Jmqw12#P
+    username:
+    password:
     url: jdbc:mysql://39.105.196.14:33306/kongfy?useUnicode=true&characterEncoding=UTF-8

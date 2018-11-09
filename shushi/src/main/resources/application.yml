@@ -7,4 +7,4 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username:
     password:
-    url: jdbc:mysql://39.105.196.14:33306/kongfy?useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://aliyun:3306/kongfy?useUnicode=true&characterEncoding=UTF-8
